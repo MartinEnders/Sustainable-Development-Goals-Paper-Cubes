@@ -4,6 +4,9 @@ Folders:
 * [multiple-sdgs-per-cube](multiple-sdgs-per-cube) -> Cubes with different SDGs
 * [one-sdg-per-cube](one-sdg-per-cube) -> Cubes with same SDG on each side
 
+Code:
+* [Jupyter Notebook](Generate-Cube-Templates.ipynb] for generation of templates.
+
 ## Multiple SDG Icons
 ![Multiple SDG icons per cube](multiple-sdgs-per-cube/1.png "Multiple SDGs per Cube")
 
@@ -12,3 +15,4 @@ Folders:
 
 
 Icon source: https://www.un.org/sustainabledevelopment/news/communications-material/
+
