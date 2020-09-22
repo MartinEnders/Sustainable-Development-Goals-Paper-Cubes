@@ -1,5 +1,7 @@
 # Sustainable Development Goals Paper Cubes
 
+Infos about the Sustainable Development Goals: https://www.un.org/sustainabledevelopment/
+
 Folders:
 * [multiple-sdgs-per-cube](multiple-sdgs-per-cube) -> Cubes with different SDGs
 * [one-sdg-per-cube](one-sdg-per-cube) -> Cubes with same SDG on each side
