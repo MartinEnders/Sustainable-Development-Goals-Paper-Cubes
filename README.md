@@ -6,9 +6,9 @@ Folders:
 
 Summary PDFs:
 * [All Cube-Templates in one PDF file](https://raw.githubusercontent.com/MartinEnders/Sustainable-Development-Goals-Paper-Cubes/master/summary-pdfs/all-sdg-cubes-combined.pdf)
-* [Cubes with multiple SDGs](https://github.com/MartinEnders/Sustainable-Development-Goals-Paper-Cubes/blob/master/summary-pdfs/multiple-sdgs-per-cube-combined.pdf)
-* [Cubes with single SDG](https://github.com/MartinEnders/Sustainable-Development-Goals-Paper-Cubes/blob/master/summary-pdfs/single-sdg-per-cube-combined.pdf)
-
+* [Cubes with multiple SDGs](https://raw.githubusercontent.com/MartinEnders/Sustainable-Development-Goals-Paper-Cubes/master/summary-pdfs/multiple-sdgs-per-cube-combined.pdf)
+* [Cubes with single SDG](https://raw.githubusercontent.com/MartinEnders/Sustainable-Development-Goals-Paper-Cubes/master/summary-pdfs/single-sdg-per-cube-combined.pdf)
+ 
 Code:
 * [Jupyter Notebook](Generate-Cube-Templates.ipynb) for generation of templates.
 
