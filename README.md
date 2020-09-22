@@ -7,6 +7,10 @@ Folders:
 Code:
 * [Jupyter Notebook](Generate-Cube-Templates.ipynb) for generation of templates.
 
+## Example SDG-Cube
+![Example SDG-Cube](example-sdg-cube.jpg "Example SDG-Cube")
+
+
 ## Multiple SDG Icons
 
 See Folders for all templates.
