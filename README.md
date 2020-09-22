@@ -13,13 +13,13 @@ Code:
 
 ## Multiple SDG Icons
 
-See Folders for all templates.
+See Folders for all templates: [multiple-sdgs-per-cube](multiple-sdgs-per-cube)
 
 ![Multiple SDG icons per cube](multiple-sdgs-per-cube/1.png "Multiple SDGs per Cube")
 
 ## Single SDG Icons
 
-See Folders for all templates.
+See Folders for all templates: [one-sdg-per-cube](one-sdg-per-cube)
 
 ![Single SDG icon per cube](one-sdg-per-cube/1.png "Single SDG per Cube")
 
